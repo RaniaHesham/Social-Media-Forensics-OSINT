@@ -1,0 +1,85 @@
+{
+    "users": {
+        "RanyaHesham": {
+            "username": "RanyaHesham",
+            "bio": "Error/Not found",
+            "location": null,
+            "followers": 0,
+            "following": 0,
+            "public_repos": 0,
+            "created_at": null,
+            "updated_at": null,
+            "repos": [],
+            "repos_full": [],
+            "following_list": [],
+            "followers_list": []
+        },
+        "Eman-SUT": {
+            "username": "Eman-SUT",
+            "bio": "No bio",
+            "location": null,
+            "followers": 2,
+            "following": 1,
+            "public_repos": 4,
+            "created_at": "2025-09-29T15:57:39Z",
+            "updated_at": "2026-05-02T18:58:27Z",
+            "repos": [
+                "Privacy-Manager-Extension-Project",
+                "web-programing-lab-1",
+                "web-programming-EmanHeshamSolimanMostafa-230103682",
+                "WebSec230103682"
+            ],
+            "repos_full": [
+                "Eman-SUT/Privacy-Manager-Extension-Project",
+                "Eman-SUT/web-programing-lab-1",
+                "Eman-SUT/web-programming-EmanHeshamSolimanMostafa-230103682",
+                "Eman-SUT/WebSec230103682"
+            ],
+            "following_list": [
+                "RaniaHesham"
+            ],
+            "followers_list": [
+                "RaniaHesham",
+                "mennaeladawy"
+            ]
+        }
+    },
+    "relationships": [],
+    "risk_scores": {
+        "RanyaHesham": 76.0,
+        "Eman-SUT": 73.0
+    },
+    "graph": {
+        "nodes": 2,
+        "edges": 0,
+        "communities": 2
+    },
+    "metrics": {
+        "degree": {
+            "RanyaHesham": 0.0,
+            "Eman-SUT": 0.0
+        },
+        "betweenness": {
+            "RanyaHesham": 0.0,
+            "Eman-SUT": 0.0
+        },
+        "closeness": {
+            "RanyaHesham": 0.0,
+            "Eman-SUT": 0.0
+        },
+        "pagerank": {
+            "RanyaHesham": 0.5,
+            "Eman-SUT": 0.5
+        }
+    },
+    "recovery": {
+        "RanyaHesham": {
+            "snapshots": 0,
+            "deleted_repos": []
+        },
+        "Eman-SUT": {
+            "snapshots": 0,
+            "deleted_repos": []
+        }
+    }
+}
